@@ -1,0 +1,26 @@
+body{
+  
+    margin: 0%;
+    width: 100%;
+}
+
+#background {
+    width: 100%;
+    position: relative;
+}
+#background img{
+    height: 697px;
+    width: 100%;
+}
+#player{
+    background-color: brown;
+    width: 8%;
+    height: 130px;
+    border-radius: 50%;
+    position: absolute;
+    top: 0px;
+    transform: translate(600%,200%);
+    transition: 1s;
+   
+
+}
